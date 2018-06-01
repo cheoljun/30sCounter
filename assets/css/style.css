@@ -77,7 +77,8 @@ h1{
     margin-top: 1%;
     line-height: 1em;
 	font-weight: bold;
-    font-family: serif;
+    font-family: 'KoPub Batang', serif;
+	font-weight: 700;
     letter-spacing: -0.01em;
          vertical-align:middle;
     background: url(tone01.jpg);
