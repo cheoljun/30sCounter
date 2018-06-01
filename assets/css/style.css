@@ -59,8 +59,9 @@ h1{
     display: inline-block;
     align-content: center;
     width: 10%;
-    padding: 5%;
-    padding-top: 6%;
+    padding: 6%;
+    padding-bottom: 4%;
+    padding-top: 5%;
     margin: 3%;
     margin-top: 6%;
     margin-bottom: 5%;
@@ -125,4 +126,10 @@ em{
     font-size: 2vw;
     margin-left: 10%;
     margin-right: 10%;
+    margin-top: -3%;
+}
+
+#d-day{
+    margin-bottom: -8%;
+    margin-top: 0%;
 }
