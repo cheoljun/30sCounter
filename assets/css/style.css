@@ -52,7 +52,7 @@ h1{
 }
 
 #cel{
-    font-family: serif;
+    font-family: 'KoPub Batang', serif;
     color: darkslategray;
     font-size: 7vw;
     font-weight: bold;
@@ -94,7 +94,7 @@ em{
     color: #009362;
 }
 .main div{
-    font-family: serif;
+    font-family: 'KoPub Batang', serif;
     display: inline-block;
     margin: 2%;
     font-size: 3.3vw;
